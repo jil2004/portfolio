@@ -1,3 +1,5 @@
+// Github Stats using "react-github-calendar"
+
 import React from "react";
 import GitHubCalendar from "react-github-calendar";
 import { Row } from "react-bootstrap";
